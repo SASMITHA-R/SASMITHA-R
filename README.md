@@ -2,7 +2,8 @@
 
 ## Flutter Developer | B.E. Electronics and Communication Engineering Graduate (2025)  
 
-I am a motivated **Flutter Developer** with hands-on experience in building responsive and user-friendly mobile applications using **Flutter** and **Dart**. Skilled in **Firebase integration**, **REST API handling**, and designing clean, efficient UIs. Passionate about modern mobile technologies and eager to contribute to impactful real-world applications while continuously learning and improving.  
+I am a motivated **Flutter Developer** with hands-on experience in building responsive, user-friendly mobile applications using **Flutter** and **Dart**. Skilled in **Firebase integration**, **REST API handling**, and designing clean, efficient UIs with a strong focus on **UI/UX principles** to deliver intuitive and engaging user experiences. Experienced in implementing scalable app architectures, optimizing performance, and ensuring seamless cross-platform functionality. Passionate about modern mobile technologies and eager to contribute to impactful real-world applications while continuously learning, innovating, and improving.  
+
 
 ---
 
