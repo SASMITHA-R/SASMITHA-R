@@ -1,50 +1,61 @@
-# Hi there, I'm Sasmitha R! 👋
+# Hello, I’m Sasmitha R 👋  
 
-**B.E. Electronics and Communication Engineering | Class of 2025**
+## Flutter Developer | B.E. Electronics and Communication Engineering Graduate (2025)  
 
-Welcome to my GitHub! I'm an Electronics and Communication Engineering (ECE) student with a strong passion for embedded systems, IoT, and software engineering. My goal is to innovate and contribute to advancing technology through practical applications in these fields.
-
----
-
-## 🚀 Projects
-
-- **Automatic Plant Irrigation System**  
-  - Utilized PIC microcontroller for efficient water management based on sensor data, optimizing plant growth and conserving water.
-  
-- **IoT-Based Accident Monitoring and Alert System**  
-  - Developed using ESP32 for real-time accident detection and alerting, enhancing safety across various environments.
-  
-- **Low Power Wallace Tree Multiplier Using Modified Full Adder**  
-  - Focused on energy-efficient computational design without compromising performance.
-  
-- **DC Motor Control via Google Assistant**  
-  - Enabled voice command motor control through IoT protocols and Google Assistant integration.
+I am a motivated **Flutter Developer** with hands-on experience in building responsive and user-friendly mobile applications using **Flutter** and **Dart**. Skilled in **Firebase integration**, **REST API handling**, and designing clean, efficient UIs. Passionate about modern mobile technologies and eager to contribute to impactful real-world applications while continuously learning and improving.  
 
 ---
 
-## 🏆 Certifications & Workshops
+## 🚀 Projects  
 
-- **VLSI Design and Functional Verification**  
-  - Hands-on experience with System Verilog for hardware description and validation processes.
-  
-- **Industrial Sensing and AI**  
-  - Gained insights into mmWave radar-based sensing, explainable AI, and reinforcement learning.
-  
-- **Biomedical Signal Processing**  
-  - Practical application of real-time signal processing algorithms for biomedical data using Arduino.
+### 📻 AIRadio App  
+🎵 Online radio streaming with smooth playback and responsive UI  
+**Technologies**: Flutter, Dart  
 
 ---
 
-## 💻 Skills
-
-- **Languages**: C, Python, Embedded C, Verilog, HTML
-- **Tools**: Arduino, PIC Microcontrollers, ESP32
+### ⚖️ BMI Calculator App  
+⚖️ Instant BMI calculation with clean, user-friendly design  
+**Technologies**: Flutter, Dart  
 
 ---
 
-## 🌐 Connect with me
+### 🖼️ Image Upload App  
+🖼️ Real-time Firebase image upload and storage management  
+**Technologies**: Flutter, Dart, Firebase Storage  
 
-- [LinkedIn](https://www.linkedin.com/in/sasmitha-r-3aa062228)
-- [GitHub](https://github.com/SASMITHA-R)
+---
 
-Let's collaborate and create something amazing!
+## 💻 Technical Skills  
+
+**Programming Languages**  
+- Dart  
+- Java  
+
+**Frameworks & Technologies**  
+- Flutter  
+- Firebase (Authentication, Firestore, Storage)  
+- REST API Integration  
+- Hive  
+- SharedPreferences  
+- State Management (Provider, Riverpod, Bloc)  
+- Material Design & Custom Widgets  
+- Testing (Flutter Test, JUnit)  
+- CI/CD (GitHub Actions, Firebase App Distribution)  
+
+**Tools**  
+- Git & GitHub  
+- VS Code  
+- Android Studio  
+- Postman  
+
+---
+
+## 🌐 Connect With Me  
+
+- [LinkedIn](https://www.linkedin.com/in/sasmitha-r-3aa062228/)  
+- [GitHub](https://github.com/SASMITHA-R)  
+
+---
+
+⭐ Thank you for visiting my profile. I welcome opportunities to collaborate, contribute to innovative projects, and grow as a professional Flutter developer.  
