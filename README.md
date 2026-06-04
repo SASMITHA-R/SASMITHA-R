@@ -179,8 +179,8 @@ class Sasmitha extends FlutterDeveloper {
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
 | [**📻 AI Radio App**](https://github.com/SASMITHA-R/airadio) | Flutter · Alan AI · Radio API · Dart | Voice-controlled radio app with play/stop commands, category-based station search, async streaming, and responsive UI |
-| [**⚖️ BMI Calculator App**](https://github.com/SASMITHA-R) | Flutter · Dart · Font Awesome · REST API | Real-time BMI logic, reusable widgets, live Radio Streaming API integration, and async audio playback |
-| [**🖼️ Photo Upload & Gallery App**](https://github.com/SASMITHA-R) | Flutter · Firebase Storage · Firestore · Image Picker | Cloud-based image upload, grid gallery display, Firebase backend storage & retrieval, real-world media handling |
+| [**⚖️ BMI Calculator App**](https://github.com/SASMITHA-R/BMI) | Flutter · Dart · Font Awesome · REST API | Real-time BMI logic, reusable widgets, live Radio Streaming API integration, and async audio playback |
+| [**🖼️ Photo Upload & Gallery App**](https://github.com/SASMITHA-R/photo) | Flutter · Firebase Storage · Firestore · Image Picker | Cloud-based image upload, grid gallery display, Firebase backend storage & retrieval, real-world media handling |
 
 </div>
 
