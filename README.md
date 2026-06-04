@@ -153,7 +153,7 @@ class Sasmitha extends FlutterDeveloper {
 </details>
 
 <details>
-  <summary><b>☕ Java Fullstack Intern — Tap Academy | Chennai, India | 6 Months</b></summary>
+  <summary><b>☕ Java Fullstack Intern — Tap Academy | Bangalore, India | 6 Months</b></summary>
   <br/>
   <blockquote>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
