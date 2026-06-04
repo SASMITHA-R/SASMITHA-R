@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sasmitha%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Building%20Beautiful%20Cross-Platform%20Apps&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
-<!-- PROFILE VIEWS COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SASMITHA-R&label=Profile%20Views&color=70a5fd&style=flat-square" alt="SASMITHA-R" />
-</p>
 
 <!-- TYPING HEADER -->
 <p align="center">
